@@ -1,6 +1,0 @@
-Nr,Label,z(mm),theta(degrees)
-1,Amostra 1,8,0
-2,Amostra 2,24,0
-3,Amostra 3,40,0
-4,Amostra 4,56,0
-5,-,8,120
